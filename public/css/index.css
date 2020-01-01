@@ -15,7 +15,7 @@ html, body{
 
 .p-img{
     border-radius: 50%;
-    height: 120px;
+    height: 200px;
 }
 
 .padding-5{
@@ -23,7 +23,7 @@ html, body{
 }
 
 .heading{
-    height: 90.8vh;
+    height: 94.3vh;
     width: 100%;
     background-color: black;
     /* font-family: 'Montserrat', sans-serif !important; */
@@ -69,4 +69,15 @@ form h1{
     position: absolute;
     bottom: 0px !important;
     width: 100%;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px !important;
+    width: 100%;
+}
+
+.project-img{
+    height: 200px;
+    width: 350px;
 }
